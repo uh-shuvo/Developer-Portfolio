@@ -3,3 +3,11 @@ body {}
 .flexible-container {
     display: flex;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
