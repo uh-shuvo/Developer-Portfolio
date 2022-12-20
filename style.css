@@ -5,6 +5,7 @@ body {
 
 .flexible-container {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .top-banner {
